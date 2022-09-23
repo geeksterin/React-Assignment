@@ -11,4 +11,4 @@
 - Key Skills
 - Academic Details
 
-Hosted Link :
+HOSTED LINK :
