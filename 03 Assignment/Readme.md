@@ -1,3 +1,5 @@
+# props Assignment 1
+
 # Create a React application.
 
 - Create a react application
@@ -12,6 +14,6 @@
 
 # Your end project could look like this , however feel free to use colors of your choices:
 
-![prop](../02%20Assignment/images/prop.jpeg)
+![prop](../03%20Assignment/images/prop.jpeg)
 
 HOSTED LINK :
